@@ -1,0 +1,14 @@
+<ProofOfDelivery>
+  <Signature>
+    <Name>stop1</Name>
+    <DateTime>2021/09/09 09:35:00.000</DateTime>
+  </Signature>
+  <Signature>
+    <Name>stop3</Name>
+    <DateTime>2021/09/09 09:15:00.000</DateTime>
+  </Signature>
+  <Signature>
+    <Name>stop2</Name>
+    <DateTime>2021/09/09 09:45:00.000</DateTime>
+  </Signature>
+</ProofOfDelivery>
